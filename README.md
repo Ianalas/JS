@@ -17,6 +17,10 @@
 >- Javascript
 >- Node.js
 >- Nodemon
+<h3>Library Propositional Logic JS</h3>
+https://rmarcus.info/blog/2015/09/02/vulcan.html
+
+Thank you, `<Ryan Marcus>` for library fantastic!
 
 <h2>✔️ Objetivo </h2> 
 <h3>Goal</h3>
