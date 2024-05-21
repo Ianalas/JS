@@ -58,6 +58,20 @@ Thank you, `<Ryan Marcus>` for library fantastic!
     </td>
   </tr>
 </table>
+<h2>👨‍💻Como iniciar no seu IDE</h2>
+<h3>How to get started in your IDE</h3
+
+Digite no seu terminal ou prompt de comando:
+```
+npm init -y
+```
+Logo após, para instalar a Lib `<propositional_logic-js v.0.1.4>`
+```
+npm i propositional_logic-js
+```
+
+> obs.: Pode ocoorer de a bliblioteca utilizada ser atualizada, então fique ligado a versão usada no projeto.
+
 
 <h2 id="contribute">📫 Como contribuir</h2>
 <h3>How to contribute</h3>
